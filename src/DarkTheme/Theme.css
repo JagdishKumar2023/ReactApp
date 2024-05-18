@@ -1,0 +1,20 @@
+/* styles.css */
+
+.mainContainer {
+  border: 2px solid red;
+  width: 1400px;
+}
+
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+  height: 1200px;
+  width: 1200px;
+}
+
+.light-theme {
+  background-color: #fff;
+  color: #333;
+  width: 700px;
+  height: 700px;
+}
